@@ -6,6 +6,6 @@ export const firebaseConfig = {
   appId: "1:469904656796:web:da666f9d2b0ede4df92059"
 };
 
-export const adminUid = "REPLACE_WITH_YOUR_GOOGLE_UID";
+export const adminUid = "1zErxQ3uiuhY6Ue0de9zoVbDsMK2";
 
 export const configured = firebaseConfig.apiKey !== "REPLACE_ME";
